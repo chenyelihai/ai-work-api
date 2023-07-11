@@ -1,0 +1,8 @@
+yuapi:
+  client:
+    access-key: hmf0ju7embjvr1m4f3rp856n00zk9lcc
+    secret-key: qfmtgispiwlu5vkfghl80tzmsphyr0d0
+server:
+  port: 8085
+  servlet:
+    context-path: /api
